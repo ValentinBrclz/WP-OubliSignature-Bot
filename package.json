@@ -1,0 +1,43 @@
+{
+  "name": "wp-oublisignature-bot",
+  "version": "0.0.1",
+  "author": {
+    "name": "Valentin Berclaz",
+    "url": "http://www.valentinberclaz.com/"
+  },
+  "main": "lib/bot.js",
+  "description": "Wikipedia FR Bot that signs when users forget to do so",
+  "homepage": "https://github.com/ValentinBrclz/WP-OubliSignature-Bot",
+  "bugs": "https://github.com/ValentinBrclz/WP-OubliSignature-Bot/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValentinBrclz/WP-OubliSignature-Bot.git"
+  },
+  "license": "GPL-2.0",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "wikimedia-stream": "^0.4.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.8.0",
+    "vows": "^0.8.1"
+  },
+  "keywords": [
+    "wikimedia",
+    "wiki",
+    "bot",
+    "nodejs",
+    "wikipedia",
+    "signature"
+  ],
+  "scripts": {
+    "jshint": "jshint lib/bot.js test/",
+    "test": "vows --spec"
+  },
+  "jshintConfig": {
+    "node": true,
+    "strict": true
+  }
+}
