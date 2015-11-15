@@ -18,7 +18,7 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "wikimedia-stream": "^0.4.0"
+    "wikimedia-stream": "^0.0.1"
   },
   "devDependencies": {
     "jshint": "^2.8.0",
