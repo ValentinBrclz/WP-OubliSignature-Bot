@@ -17,7 +17,6 @@ La contribution doit être effectuée :
  4. sans signature valide.
 
 **Actions**
-
 * Ajouter l'entrée au journal
 * Prévenir l'utilisateur
 * Ajouter le modèle {{non signé}}
