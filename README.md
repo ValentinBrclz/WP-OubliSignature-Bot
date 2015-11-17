@@ -11,10 +11,10 @@ _**(fr)**_ Robot de la Wikipédia francophone qui signe lorsqu'un utilisateur ou
 **Conditions**
 
 La contribution doit être effectuée :
-1. sur une page de discussion ou page assimilée comme telle (sauf "/À faire") ;
-2. par un utilisateur éligible (opt-in, opt-out, autopatrolled) ;
-3. sous la forme d'un nouveau commentaire ;
-4. sans signature valide.
+ 1. sur une page de discussion ou page assimilée comme telle (sauf "/À faire") ;
+ 2. par un utilisateur éligible (opt-in, opt-out, autopatrolled) ;
+ 3. sous la forme d'un nouveau commentaire ;
+ 4. sans signature valide.
 
 **Actions**
 
