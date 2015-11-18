@@ -1,6 +1,8 @@
 WP-OubliSignature-Bot
 ========================
 [![Build Status](https://api.travis-ci.org/ValentinBrclz/WP-OubliSignature-Bot.png)](http://travis-ci.org/ValentinBrclz/WP-OubliSignature-Bot)
+[![Dependency Status](https://img.shields.io/david/ValentinBrclz/WP-OubliSignature-Bot.svg?style=flat)](https://david-dm.org/ValentinBrclz/WP-OubliSignature-Bot#info=Dependencies)
+[![devDependency Status](https://img.shields.io/david/dev/ValentinBrclz/WP-OubliSignature-Bot.svg?style=flat)](https://david-dm.org/ValentinBrclz/WP-OubliSignature-Bot#info=devDependencies)
 [![License](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat)](http://opensource.org/licenses/GPL-2.0)
 
 _**(en)**_ French speaking Wikipedia bot that signs when users forget to do so. Since this is **only** for the french speaking version of Wikipedia, documentation, comments, etc. may be sometimes in French
