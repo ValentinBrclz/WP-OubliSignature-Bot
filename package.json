@@ -21,6 +21,7 @@
     "async": "^1.5.0",
     "diff": "^2.2.1",
     "escape-string-regexp": "^1.0.3",
+    "forever": "^0.15.1",
     "html-entities": "^1.2.0",
     "nodemw": "^0.8.0",
     "wikimedia-stream": "^0.1.0"
