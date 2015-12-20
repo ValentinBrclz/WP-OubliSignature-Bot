@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Get the last version
 git pull
 
