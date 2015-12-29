@@ -23,6 +23,7 @@
     "escape-string-regexp": "^1.0.3",
     "forever": "^0.15.1",
     "html-entities": "^1.2.0",
+    "lodash": "^3.10.1",
     "nodemw": "^0.8.0",
     "wikimedia-stream": "^0.1.0"
   },
