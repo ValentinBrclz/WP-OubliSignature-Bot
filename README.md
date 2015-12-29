@@ -34,7 +34,7 @@ Pour ne pas recevoir de messages et/ou ne pas être corrigé par le bot, il est 
 * Soit le modèle {{Utilisateur sans contrôle de signature}}
 
 ## Voir le robot
-Le robot fonctionne sur Wikipédia sous le nom [Signature Manquante (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Signature_Manquante_(bot))
+Le robot fonctionne sur Wikipédia sous le nom [Signature manquante (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Signature_manquante_(bot))
 
 ## License
 * License: GNU General Public Licence (2.0)
