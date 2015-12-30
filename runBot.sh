@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Stop the bot
+./node_modules/.bin/forever stopall
+
 # Get the last version
 git pull
 
