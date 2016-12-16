@@ -3,7 +3,7 @@ WP-OubliSignature-Bot
 [![Build Status](https://api.travis-ci.org/ValentinBrclz/WP-OubliSignature-Bot.png)](http://travis-ci.org/ValentinBrclz/WP-OubliSignature-Bot)
 [![Dependency Status](https://img.shields.io/david/ValentinBrclz/WP-OubliSignature-Bot.svg?style=flat)](https://david-dm.org/ValentinBrclz/WP-OubliSignature-Bot#info=Dependencies)
 [![devDependency Status](https://img.shields.io/david/dev/ValentinBrclz/WP-OubliSignature-Bot.svg?style=flat)](https://david-dm.org/ValentinBrclz/WP-OubliSignature-Bot#info=devDependencies)
-[![License](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat)](http://opensource.org/licenses/GPL-2.0)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat)](http://opensource.org/licenses/GPL-3.0)
 
 _**(en)**_ French speaking Wikipedia bot that signs when users forget to do so. Since this is **only** for the french speaking version of Wikipedia, documentation, comments, etc. may be sometimes in French
 
@@ -37,6 +37,6 @@ Pour ne pas recevoir de messages et/ou ne pas être corrigé par le bot, il est 
 Le robot fonctionne sur Wikipédia sous le nom [Signature manquante (bot)](https://fr.wikipedia.org/wiki/Utilisateur:Signature_manquante_(bot))
 
 ## License
-* License: GNU General Public Licence (2.0)
+* License: GNU General Public Licence (3.0)
 * Author: [Valentin Berclaz](https://github.com/ValentinBrclz)
 * Inspired by: SignBot from [Zhuyifei1999](https://commons.wikimedia.org/wiki/User:Zhuyifei1999) on Wikimedia Commons
