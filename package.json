@@ -28,6 +28,7 @@
     "wikimedia-stream": "^0.1.1"
   },
   "devDependencies": {
+    "jscs": "^3.0.7",
     "jshint": "^2.9.4",
     "vows": "^0.8.1"
   },
@@ -40,11 +41,21 @@
     "signature"
   ],
   "scripts": {
-    "jshint": "jshint lib/bot.js test/",
-    "test": "vows --spec"
+    "lint": "jshint lib/ test/",
+    "jscs": "jscs lib/",
+    "start": "node lib/bot.js",
+    "test": "npm run-script lint && npm run-script jscs && vows --spec"
   },
   "jshintConfig": {
     "node": true,
     "strict": true
+  },
+  "jscsConfig": {
+    "preset": "node-style-guide",
+    "requireCurlyBraces": false,
+    "disallowMultipleVarDecl": false,
+    "maximumLineLength": 250,
+    "validateIndentation": "\t",
+    "requireTrailingComma": false
   }
 }
