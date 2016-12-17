@@ -41,8 +41,8 @@
     "signature"
   ],
   "scripts": {
-    "lint": "jshint lib/ test/",
-    "jscs": "jscs lib/",
+    "lint": "node-modules/jshint/bin/jshint lib/ test/",
+    "jscs": "node-modules/jscs/bin/jscs lib/",
     "start": "node lib/bot.js",
     "test": "npm run-script lint && npm run-script jscs && vows --spec"
   },
