@@ -19,11 +19,11 @@
   },
   "dependencies": {
     "async": "^2.1.4",
-    "diff": "^3.1.0",
+    "diff": "^3.2.0",
     "escape-string-regexp": "^1.0.5",
     "forever": "^0.15.3",
     "html-entities": "^1.2.0",
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.4",
     "nodemw": "^0.10.1",
     "wikimedia-stream": "^0.1.1"
   },
