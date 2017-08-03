@@ -9,4 +9,4 @@ git pull
 npm install
 
 # Start with forever
-./node_modules/.bin/forever start -o ~/logs/oublisignature-out.log -e ~/logs/oublisignature-err.log lib/bot.js
+./node_modules/.bin/forever start -c /shared/bin/node -o ~/logs/oublisignature-out.log -e ~/logs/oublisignature-err.log lib/bot.js
