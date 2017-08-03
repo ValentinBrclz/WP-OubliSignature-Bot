@@ -6,7 +6,7 @@
 git pull
 
 # Install any new package
-npm install
+npm install --production
 
 # Start with forever
 ./node_modules/.bin/forever start -c /shared/bin/node -o ~/logs/oublisignature-out.log -e ~/logs/oublisignature-err.log lib/bot.js
