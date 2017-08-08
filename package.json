@@ -18,18 +18,18 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "async": "^2.1.4",
-    "diff": "^3.2.0",
+    "async": "^2.5.0",
+    "diff": "^3.3.0",
     "escape-string-regexp": "^1.0.5",
     "forever": "^0.15.3",
-    "html-entities": "^1.2.0",
+    "html-entities": "^1.2.1",
     "lodash": "^4.17.4",
-    "nodemw": "^0.10.1",
+    "nodemw": "^0.11.0",
     "wikimedia-stream": "^0.1.1"
   },
   "devDependencies": {
     "jscs": "^3.0.7",
-    "jshint": "^2.9.4",
+    "jshint": "^2.9.5",
     "vows": "^0.8.1"
   },
   "keywords": [
