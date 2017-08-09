@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Stop the bot
-./node_modules/.bin/forever stopall
+jstop signature-manquante
 
 # Get the last version
 git pull
@@ -9,4 +9,4 @@ git pull
 npm install --production
 
 # Start with forever
-./node_modules/.bin/forever start -c /shared/bin/node -o ~/logs/oublisignature-out.log -e ~/logs/oublisignature-err.log lib/bot.js
+jstart -mem 2g -N signature-manquante -cwd /shared/bin/node  lib/bot.js
