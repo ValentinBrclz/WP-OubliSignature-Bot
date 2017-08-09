@@ -9,6 +9,7 @@ git pull
 npm install --production
 
 # Wait 10 seconds for process to finalise
+echo "Waiting for previous job to finish..."
 sleep 10
 
 # Start with forever
