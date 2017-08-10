@@ -3,5 +3,6 @@
 if job signature-manquante > /dev/null
 then
 	# Run the bot
-   ./run.sh
+	(>&2 echo "'signature-manquante' job is not alive anymore. Launching bot again.")
+	~/WP-OubliSignature-Bot/run.sh
 fi
