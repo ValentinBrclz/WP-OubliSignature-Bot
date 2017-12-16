@@ -18,12 +18,12 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "async": "^2.5.0",
-    "diff": "^3.3.0",
+    "async": "^2.6.0",
+    "diff": "^3.4.0",
     "escape-string-regexp": "^1.0.5",
     "html-entities": "^1.2.1",
     "lodash": "^4.17.4",
-    "nodemw": "^0.11.0",
+    "nodemw": "^0.12.0",
     "wikimedia-stream": "^0.1.1"
   },
   "devDependencies": {
