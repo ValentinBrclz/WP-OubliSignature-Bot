@@ -18,18 +18,18 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "async": "^2.6.0",
-    "diff": "^3.4.0",
+    "async": "^2.6.2",
+    "diff": "^4.0.1",
     "escape-string-regexp": "^1.0.5",
     "html-entities": "^1.2.1",
-    "lodash": "^4.17.4",
-    "nodemw": "^0.12.0",
+    "lodash": "^4.17.11",
+    "nodemw": "^0.12.2",
     "wikimedia-stream": "^0.1.1"
   },
   "devDependencies": {
     "jscs": "^3.0.7",
-    "jshint": "^2.9.5",
-    "vows": "^0.8.1"
+    "jshint": "^2.10.1",
+    "vows": "^0.8.2"
   },
   "keywords": [
     "wikimedia",
@@ -54,7 +54,9 @@
     "requireCurlyBraces": false,
     "disallowMultipleVarDecl": false,
     "maximumLineLength": 250,
-    "validateIndentation": "\t",
+    "validateIndentation": {
+      "value": "\t"
+    },
     "requireTrailingComma": false
   }
 }
